@@ -1,6 +1,8 @@
 # Tutoriel-Manim-Community
  
-Scripts python des épisodes du tutoriel sur Manim Community de la chaîne Foxxpy
+Scripts Python des épisodes du tutoriel sur Manim Community de la chaîne Foxxpy
+
+Version actuelle de Manim Community : v0.6.0
 
 --- Liste des épisodes ---
 
@@ -11,3 +13,5 @@ Scripts python des épisodes du tutoriel sur Manim Community de la chaîne Foxxp
 2/ Les figures géométriques : https://youtu.be/XbJyQVpFzWA
 
 3/ Animer vos scènes : https://youtu.be/xXsDih2TvbM
+
+4/ Les textes : https://youtu.be/vQvfDD-jnyg
